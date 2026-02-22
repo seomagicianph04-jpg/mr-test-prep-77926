@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mr-test-prep-77926.pages.dev/sitemap.xml
