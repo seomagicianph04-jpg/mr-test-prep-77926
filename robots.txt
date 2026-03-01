@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mr-test-prep-77926.pages.dev/sitemap.xml
+Sitemap: https://seomagicianph04-jpg.github.io/mr-test-prep-77926/sitemap.xml
